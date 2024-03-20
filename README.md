@@ -5,13 +5,14 @@ AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful 
 
 Technology Stack:
 
-SQL 
-PowerBi Desktop 
-Excel 
-DAX language 
-DAX Studio (utilized for report optimization) 
-Project charter file 
-Mastered PowerBI Techniques:    
+SQL                       
+PowerBi Desktop                   
+Excel                                            
+DAX language                                   
+DAX Studio (utilized for report optimization)                                        
+Project charter file                                  
+                                  
+Mastered PowerBI Techniques:                                                  
 
 Formulating precise project questions 
 Developing calculated columns   
